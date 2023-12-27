@@ -1,0 +1,152 @@
+html {
+scroll-behavior: smooth;
+}
+
+/* First Row */
+
+.row1{
+    background-color: rgb(0, 136, 255);
+    border-radius:  0px 0px 15px 0px;
+    filter: invert(100%); 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+    }
+
+/* Second Row */
+.f1{
+    font-size: 40px;
+    font-family: 'Kaushan Script', cursive;
+    }
+
+.s1 :hover{
+    color: orange;
+}
+
+.b1{
+    background-color: rgb(0, 153, 255);
+    border-radius: 40px 40px;
+    border: none;
+    padding: 8px 8px 8px 8px;
+    color: white;
+    font-size: 14px;
+    }
+
+.t1{
+    color: black;
+}
+/* Third row */
+.f2 img{ 
+    width: 100%;
+    border-radius: 35px 0px 35px 0px;
+    }
+
+/*Fourth Row*/
+.f3 img{
+    width: 100%;
+    border-radius: 15px 15px 15px 15px;
+    }
+
+.title1{
+    font-family: 'Kaushan Script', cursive;
+    color:rgb(255, 119, 0);
+    font-size: 30px; 
+    }
+    
+.cont2{
+    font-size: 15px;
+    padding-bottom: 5px; 
+    padding-top: 5px;
+    color: rgb(113, 113, 113);
+    }
+
+/* Fifth Row */
+.bgimg{
+    background-image: url('../images/bg2.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    border-radius:  35px 0px 0px 0px;
+}
+
+.title2{
+    font-family: 'Kaushan Script', cursive;
+    color:rgb(255, 119, 0);
+    font-size: 50px; 
+    }
+.c1 {
+    position: relative;
+    text-align: left;
+    color: white;
+    }
+
+/* form for fifth row */
+.formalign{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(20, 11, 1);
+    background-color: rgba(240, 248, 255, 0.471);
+    border-radius: 15px;
+    padding: 20px 0px 20px 0px;
+    margin-top: 70px;
+    margin-left: 110px;
+    margin-bottom: 70px;
+    }
+.formalign input{
+    border-radius: 15px;
+    }
+.formalign button{
+    border-radius: 15px;
+    }
+
+/* Sixth Row */
+.f6{
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    }
+/* Seventh Row */
+.f7 img{
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    }
+/* Eight Row */
+.in1{
+    filter: invert(100);
+}
+.f8{
+    background-color:rgb(39, 39, 39);
+    color: rgb(172, 172, 172);
+    margin-right: 0%;
+}
+/* size and font ofthe title in the eighth row */
+.f8a{
+    font-size: 40px;
+    font-family: 'Kaushan Script', cursive;
+}
+.b8{
+    border-bottom: solid rgb(48, 48, 48);
+}
+/* Ninth Row */
+.ex1:hover{
+    color:rgb(255, 119, 0)
+}
+.cl1{
+    color: white;
+}
+/* 10th Row */
+.row10{
+    background-color:rgb(39, 39, 39);
+    border-top: solid rgb(48, 48, 48);
+    color: rgb(172, 172, 172);
+    text-align: center;
+}
+
+/* About page font */
+.f4{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+}
